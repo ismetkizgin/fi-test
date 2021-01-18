@@ -1,0 +1,13 @@
+{
+  "name": "myfis-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "cypress run --browser chrome",
+    "start:dev": "npx cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^4.4.1",
+    "start-server-and-test": "^1.11.0"
+  }
+}
