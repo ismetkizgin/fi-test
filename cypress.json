@@ -1,4 +1,5 @@
 {
-  "baseUrl": "http://localhost:3000/",
-  "serveUrl": "http://localhost:5000/"
+  "baseUrl": "http://localhost:4200/",
+  "viewportWidth": 1440,
+  "viewportHeight": 900
 }
