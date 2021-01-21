@@ -1,3 +1,3 @@
-# MyFIS-Test
+# FI Project Test Automation
 
-Safe project test warehouse for my family.
+This test automation was written for the [FI Web Project](https://github.com/ismetkizgin/fi-website).
